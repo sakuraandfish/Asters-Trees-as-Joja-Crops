@@ -1,0 +1,35 @@
+{
+    "Name": "Joja Cherry Cute",
+    "Product": 638,
+    "SeedName": "Joja Cherry Cute",
+	
+    "SeedDescription": "This sapling acts just like a crop thanks to bioengineering! Plant in Spring. Matures in 24 days.",
+	
+    "Type": "Fruit",
+
+    "Seasons": ["spring",],
+    "Phases": [ 5, 4, 5, 5, 5 ],
+    "RegrowthPhase": 1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+	
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.03,
+    },
+		
+	"SeedPurchaseFrom": "Joja",
+
+    "SeedPurchasePrice": 3999,
+	"SeedSellPrice": 500,
+			"SeedNameLocalization" : {
+        "zh": "joja樱桃可爱" 
+	},
+    "SeedDescriptionLocalization": {
+        "zh": "由于生物工程，这棵树苗就像农作物一样！ 在春天种植。 24 天后成熟。" 
+	}
+
+}
